@@ -1,8 +1,6 @@
-# Assignment_6
+# CS 660 : Assignment6
 
-# Assignment Summary:
-
-Basic JavaScript concepts have been implemented in this assignment. Used Javacsript to create various applications which are as follows: 
+In this assignment Javascript is used to create various applications like: 
 
 * Larger or Smaller
 * Coin Flip
